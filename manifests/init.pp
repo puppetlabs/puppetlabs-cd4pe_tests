@@ -44,6 +44,6 @@
 #
 class cd4pe_tests {
   notify { "test_notify":
-    message => "notify from puppetlabs-cd4pe_tests#cdpe969",
+    message => "notify from puppetlabs-cd4pe_tests#969demo_test",
   }
 }

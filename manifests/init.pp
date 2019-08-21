@@ -44,6 +44,6 @@
 #
 class cd4pe_tests {
   notify { "test_notify":
-    message => "notify from puppetlabs-cd4pe_tests#rdm_integration_tests_git_based_modules_update_5",
+    message => "notify from puppetlabs-cd4pe_tests#rdm_integration_tests_git_based_modules_update_6",
   }
 }

@@ -44,6 +44,6 @@
 #
 class cd4pe_tests {
   notify { "test_notify":
-    message => "notify from puppetlabs-cd4pe_tests#git_based_module_test",
+    message => "notify from puppetlabs-cd4pe_tests#impact_analysis_tests_prod",
   }
 }
